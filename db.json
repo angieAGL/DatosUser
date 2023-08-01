@@ -41,7 +41,8 @@
       "imagen":"Vel.xls",
       "activoPDF":true,
       "pdf":"https://elegantthemes.com/porttitor/lacus/at/turpis/donec/posuere/metus.jsp?nibh=lorem&in=ipsum&hac=dolor&habitasse=sit&platea=amet&dictumst=consectetuer&aliquam=adipiscing&augue=elit&quam=proin&sollicitudin=risus&vitae=praesent&consectetuer=lectus&eget=vestibulum&rutrum=quam&at=sapien&lorem=varius&integer=ut&tincidunt=blandit&ante=non&vel=interdum&ipsum=in&praesent=ante&blandit=vestibulum&lacinia=ante&erat=ipsum&vestibulum=primis&sed=in&magna=faucibus&at=orci&nunc=luctus&commodo=et&placerat=ultrices&praesent=posuere&blandit=cubilia&nam=curae&nulla=duis&integer=faucibus&pede=accumsan&justo=odio&lacinia=curabitur&eget=convallis&tincidunt=duis&eget=consequat&tempus=dui&vel=nec&pede=nisi&morbi=volutpat&porttitor=eleifend&lorem=donec&id=ut&ligula=dolor&suspendisse=morbi&ornare=vel&consequat=lectus&lectus=in&in=quam&est=fringilla&risus=rhoncus&auctor=mauris&sed=enim&tristique=leo&in=rhoncus&tempus=sed&sit=vestibulum&amet=sit&sem=amet&fusce=cursus&consequat=id&nulla=turpis&nisl=integer&nunc=aliquet&nisl=massa&duis=id&bibendum=lobortis&felis=convallis&sed=tortor&interdum=risus",
-      "estado":"Male",
+      "id_state":"1",
+      "state":"Pendiente",
       "fecha":"2022-08-29"
    },
    {
@@ -51,7 +52,8 @@
       "imagen":"PedeMorbiPorttitor.avi",
       "activoPDF":false,
       "pdf":"https://themeforest.net/quam/a/odio/in/hac.jsp?eget=elit&semper=proin&rutrum=risus&nulla=praesent&nunc=lectus&purus=vestibulum&phasellus=quam&in=sapien&felis=varius&donec=ut&semper=blandit&sapien=non&a=interdum&libero=in&nam=ante&dui=vestibulum&proin=ante&leo=ipsum&odio=primis&porttitor=in&id=faucibus&consequat=orci&in=luctus&consequat=et&ut=ultrices&nulla=posuere&sed=cubilia&accumsan=curae&felis=duis&ut=faucibus&at=accumsan&dolor=odio&quis=curabitur&odio=convallis&consequat=duis&varius=consequat&integer=dui&ac=nec&leo=nisi&pellentesque=volutpat&ultrices=eleifend&mattis=donec&odio=ut&donec=dolor&vitae=morbi&nisi=vel&nam=lectus&ultrices=in&libero=quam&non=fringilla&mattis=rhoncus&pulvinar=mauris&nulla=enim&pede=leo&ullamcorper=rhoncus&augue=sed&a=vestibulum&suscipit=sit&nulla=amet&elit=cursus&ac=id&nulla=turpis&sed=integer&vel=aliquet&enim=massa&sit=id&amet=lobortis&nunc=convallis&viverra=tortor",
-      "estado":"Female",
+      "id_state":"2",
+      "state":"Publicado",
       "fecha":"2022-12-20"
    },
    {
@@ -61,7 +63,8 @@
       "imagen":"Enim.mp3",
       "activoPDF":true,
       "pdf":"http://friendfeed.com/eu/magna/vulputate/luctus/cum/sociis/natoque.json?luctus=volutpat&ultricies=convallis&eu=morbi&nibh=odio&quisque=odio&id=elementum&justo=eu&sit=interdum&amet=eu&sapien=tincidunt&dignissim=in&vestibulum=leo&vestibulum=maecenas&ante=pulvinar&ipsum=lobortis",
-      "estado":"Agender",
+      "id_state":"2",
+      "state":"Publicado",
       "fecha":"2023-02-20"
    },
    {
@@ -71,7 +74,8 @@
       "imagen":"ViverraEget.xls",
       "activoPDF":true,
       "pdf":"http://eepurl.com/libero.jsp?sollicitudin=sed&vitae=justo&consectetuer=pellentesque&eget=viverra&rutrum=pede&at=ac&lorem=diam&integer=cras&tincidunt=pellentesque&ante=volutpat&vel=dui&ipsum=maecenas&praesent=tristique&blandit=est&lacinia=et&erat=tempus&vestibulum=semper&sed=est&magna=quam&at=pharetra&nunc=magna&commodo=ac&placerat=consequat&praesent=metus&blandit=sapien&nam=ut&nulla=nunc&integer=vestibulum&pede=ante&justo=ipsum&lacinia=primis&eget=in&tincidunt=faucibus&eget=orci&tempus=luctus&vel=et&pede=ultrices&morbi=posuere&porttitor=cubilia&lorem=curae&id=mauris&ligula=viverra&suspendisse=diam&ornare=vitae&consequat=quam&lectus=suspendisse&in=potenti&est=nullam&risus=porttitor&auctor=lacus&sed=at&tristique=turpis&in=donec&tempus=posuere&sit=metus&amet=vitae&sem=ipsum&fusce=aliquam&consequat=non&nulla=mauris&nisl=morbi&nunc=non&nisl=lectus&duis=aliquam&bibendum=sit&felis=amet&sed=diam&interdum=in&venenatis=magna&turpis=bibendum&enim=imperdiet&blandit=nullam&mi=orci&in=pede&porttitor=venenatis",
-      "estado":"Female",
+      "id_state":"1",
+      "state":"Pendiente",
       "fecha":"2022-09-03"
    },
    {
@@ -91,7 +95,8 @@
       "imagen":"Venenatis.mpeg",
       "activoPDF":false,
       "pdf":"http://abc.net.au/nisl/nunc/rhoncus/dui/vel/sem/sed.jsp?accumsan=id&tellus=mauris&nisi=vulputate&eu=elementum&orci=nullam&mauris=varius&lacinia=nulla&sapien=facilisi&quis=cras&libero=non&nullam=velit&sit=nec&amet=nisi&turpis=vulputate&elementum=nonummy&ligula=maecenas&vehicula=tincidunt&consequat=lacus&morbi=at&a=velit&ipsum=vivamus&integer=vel&a=nulla&nibh=eget&in=eros&quis=elementum&justo=pellentesque&maecenas=quisque",
-      "estado":"Female",
+      "id_state":"2",
+      "state":"Publicado",
       "fecha":"2022-10-27"
    },
    {
@@ -101,7 +106,8 @@
       "imagen":"SitAmetErat.mp3",
       "activoPDF":true,
       "pdf":"https://amazon.co.jp/congue/elementum/in/hac/habitasse.xml?tempor=lacinia&turpis=aenean&nec=sit&euismod=amet&scelerisque=justo&quam=morbi",
-      "estado":"Female",
+      "id_state":"1",
+      "state":"Pendiente",
       "fecha":"2023-04-11"
    }
 ]
