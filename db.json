@@ -8,7 +8,8 @@
       "imagen":"VivamusTortor.ppt",
       "activoPDF":false,
       "pdf":"https://qq.com/sollicitudin.js?metus=lorem&aenean=vitae&fermentum=mattis&donec=nibh&ut=ligula&mauris=nec&eget=sem&massa=duis&tempor=aliquam&convallis=convallis&nulla=nunc&neque=proin&libero=at&convallis=turpis&eget=a&eleifend=pede&luctus=posuere&ultricies=nonummy&eu=integer&nibh=non&quisque=velit&id=donec&justo=diam&sit=neque&amet=vestibulum&sapien=eget&dignissim=vulputate&vestibulum=ut&vestibulum=ultrices&ante=vel&ipsum=augue&primis=vestibulum&in=ante&faucibus=ipsum&orci=primis&luctus=in&et=faucibus&ultrices=orci&posuere=luctus&cubilia=et&curae=ultrices&nulla=posuere&dapibus=cubilia&dolor=curae&vel=donec&est=pharetra&donec=magna&odio=vestibulum&justo=aliquet&sollicitudin=ultrices&ut=erat&suscipit=tortor&a=sollicitudin&feugiat=mi&et=sit&eros=amet&vestibulum=lobortis&ac=sapien&est=sapien&lacinia=non&nisi=mi&venenatis=integer&tristique=ac&fusce=neque&congue=duis&diam=bibendum&id=morbi&ornare=non&imperdiet=quam&sapien=nec&urna=dui&pretium=luctus&nisl=rutrum&ut=nulla&volutpat=tellus&sapien=in&arcu=sagittis&sed=dui&augue=vel&aliquam=nisl&erat=duis&volutpat=ac&in=nibh&congue=fusce&etiam=lacus&justo=purus&etiam=aliquet&pretium=at&iaculis=feugiat&justo=non&in=pretium",
-      "estado":"Female",
+      "id_state":"1",
+      "state":"Pendiente",
       "fecha":"2022-11-21"
    },
    {
@@ -18,7 +19,8 @@
       "imagen":"Diam.mp3",
       "activoPDF":true,
       "pdf":"http://ucoz.ru/consectetuer/adipiscing/elit.xml?in=sit&hac=amet&habitasse=cursus&platea=id&dictumst=turpis&maecenas=integer&ut=aliquet&massa=massa&quis=id&augue=lobortis&luctus=convallis&tincidunt=tortor&nulla=risus&mollis=dapibus&molestie=augue&lorem=vel&quisque=accumsan&ut=tellus&erat=nisi&curabitur=eu&gravida=orci&nisi=mauris&at=lacinia&nibh=sapien&in=quis&hac=libero&habitasse=nullam&platea=sit&dictumst=amet&aliquam=turpis&augue=elementum&quam=ligula&sollicitudin=vehicula&vitae=consequat&consectetuer=morbi&eget=a&rutrum=ipsum&at=integer&lorem=a&integer=nibh&tincidunt=in&ante=quis&vel=justo&ipsum=maecenas&praesent=rhoncus&blandit=aliquam&lacinia=lacus&erat=morbi&vestibulum=quis&sed=tortor&magna=id&at=nulla&nunc=ultrices&commodo=aliquet&placerat=maecenas&praesent=leo&blandit=odio&nam=condimentum&nulla=id&integer=luctus&pede=nec&justo=molestie&lacinia=sed&eget=justo&tincidunt=pellentesque&eget=viverra&tempus=pede&vel=ac&pede=diam&morbi=cras&porttitor=pellentesque&lorem=volutpat&id=dui&ligula=maecenas&suspendisse=tristique&ornare=est&consequat=et&lectus=tempus&in=semper",
-      "estado":"Female",
+      "id_state":"1",
+      "state":"Pendiente",
       "fecha":"2023-04-20"
    },
    {
@@ -28,7 +30,8 @@
       "imagen":"Felis.jpeg",
       "activoPDF":true,
       "pdf":"https://mapy.cz/faucibus/orci/luctus.png?id=sociis&mauris=natoque&vulputate=penatibus&elementum=et&nullam=magnis&varius=dis&nulla=parturient&facilisi=montes&cras=nascetur&non=ridiculus&velit=mus&nec=etiam&nisi=vel&vulputate=augue&nonummy=vestibulum&maecenas=rutrum&tincidunt=rutrum&lacus=neque&at=aenean&velit=auctor&vivamus=gravida&vel=sem&nulla=praesent&eget=id&eros=massa&elementum=id&pellentesque=nisl&quisque=venenatis&porta=lacinia",
-      "estado":"Female",
+      "id_stae":"2",
+      "state":"Publicado",
       "fecha":"2023-05-05"
    },
    {
