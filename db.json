@@ -1,127 +1,124 @@
 {
-   "listaNotification":
-[
-   {
-      "id":1,
-      "title":"Cruel Romance, A (Zhestokij Romans)",
-      "description":"Occlusion of Pancreatic Duct, Open Approach",
-      "image":"https://media.gcflearnfree.org/global/coding/html-basico/resources/img/perro-basquetbolista.png",
-      "activePDF":false,
-      "pdf":"",
-      "id_statu":"27",
-      "statu":"Pendiente",
-      "date":""
-   },
-   {
-      "id":2,
-      "title":"Soulless",
-      "description":"Supplement R Index Finger w Nonaut Sub, Perc Endo",
-      "image":"https://media.gcflearnfree.org/global/coding/html-basico/resources/img/perro-basquetbolista.png",
-      "activePDF":true,
-      "pdf":"https://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf",
-      "id_statu":"27",
-      "statu":"Pendiente",
-      "date":""
-   },
-   {
-      "id":3,
-      "title":"Millennium Actress (Sennen joyû)",
-      "description":"Repair Colic Vein, Open Approach",
-      "image":"Felis.jpeg",
-      "activePDF":true,
-      "pdf":"https://bdigital.uvhm.edu.mx/wp-content/uploads/2020/05/Bases-de-Datos.pdf",
-      "id_statu":"28",
-      "statu":"Publicado",
-      "date":"2023-05-05"
-   },
-   {
-      "id":4,
-      "title":"They Died with Their Boots On",
-      "description":"Insert Mult Array Stim Gen in Chest Subcu/Fascia, Perc",
-      "image":"https://raw.githubusercontent.com/mdn/learning-area/master/html/multimedia-and-embedding/images-in-html/dinosaur_small.jpg",
-      "activePDF":true,
-      "pdf":"https://core.ac.uk/download/pdf/326424171.pdf",
-      "id_statu":"27",
-      "statu":"Pendiente",
-      "date":""
-   },
-   {
-      "id":5,
-      "title":"Hot to Trot",
-      "description":"Fusion of Right Elbow Joint with Ext Fix, Perc Approach",
-      "image":"PedeMorbiPorttitor.avi",
-      "activePDF":false,
-      "pdf":"",
-      "id_statu":"28",
-      "statu":"Publicado",
-      "date":"2022-12-20"
-   },
-   {
-      "id":6,
-      "title":"Pay or Die",
-      "description":"Bypass Bi Ureter to L Ureter with Nonaut Sub, Open Approach",
-      "image":"Enim.mp3",
-      "activePDF":true,
-      "pdf":"https://libros.metabiblioteca.org/bitstreams/a37985ce-f55b-49a6-9ac4-bff7d082cdbf/download",
-      "id_statu":"28",
-      "statu":"Publicado",
-      "date":"2023-02-20"
-   },
-   {
-      "id":7,
-      "title":"Frozen Assets",
-      "description":"Magnetic Resonance Imaging (MRI) of Left Elbow",
-      "image":"ViverraEget.xls",
-      "activePDF":true,
-      "pdf":"https://openaccess.uoc.edu/bitstream/10609/139646/6/Seguridad%20informatica.pdf",
-      "id_statu":"27",
-      "statu":"Pendiente",
-      "date":""
-   },
-   {
-      "id":8,
-      "title":"Amnèsia",
-      "description":"Reposition Left Temporomandibular Joint, Open Approach",
-      "image":"https://media.gcflearnfree.org/global/coding/html-basico/resources/img/perro-basquetbolista.png",
-      "activePDF":false,
-      "pdf":"",
-      "id_statu":"28",
-      "statu":"Publicado",
-      "date":"2023-03-17"
-   },
-   {
-      "id":9,
-      "title":"Short Time",
-      "description":"Drain of R Foot Subcu/Fascia with Drain Dev, Perc Approach",
-      "image":"Venenatis.mpeg",
-      "activePDF":false,
-      "pdf":"",
-      "id_statu":"28",
-      "statu":"Publicado",
-      "date":"2022-10-27"
-   },
-   {
-      "id":10,
-      "title":"Escape from L.A.",
-      "description":"Change Other Device in Left Lung, External Approach",
-      "image":"https://media.gcflearnfree.org/global/coding/html-basico/resources/img/perro-basquetbolista.png",
-      "activePDF":false,
-      "pdf":"",
-      "id_statu":"27",
-      "statu":"Pendiente",
-      "date":""
-   }
-],
-"listStatu":
-[
-   {
-      "id":27,
-      "statu":"Pendiente",   
-   },
-   {
-      "id":28,
-      "statu":"Publico",
-      
-   },
-]
+   "listaNotification":[
+      {
+         "id":1,
+         "title":"Cruel Romance, A (Zhestokij Romans)",
+         "description":"Occlusion of Pancreatic Duct, Open Approach",
+         "image":"https://media.gcflearnfree.org/global/coding/html-basico/resources/img/perro-basquetbolista.png",
+         "activePDF":false,
+         "pdf":"",
+         "id_statu":"27",
+         "statu":"Pendiente",
+         "date":""
+      },
+      {
+         "id":2,
+         "title":"Soulless",
+         "description":"Supplement R Index Finger w Nonaut Sub, Perc Endo",
+         "image":"https://media.gcflearnfree.org/global/coding/html-basico/resources/img/perro-basquetbolista.png",
+         "activePDF":true,
+         "pdf":"https://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf",
+         "id_statu":"27",
+         "statu":"Pendiente",
+         "date":""
+      },
+      {
+         "id":3,
+         "title":"Millennium Actress (Sennen joyû)",
+         "description":"Repair Colic Vein, Open Approach",
+         "image":"Felis.jpeg",
+         "activePDF":true,
+         "pdf":"https://bdigital.uvhm.edu.mx/wp-content/uploads/2020/05/Bases-de-Datos.pdf",
+         "id_statu":"28",
+         "statu":"Publicado",
+         "date":"2023-05-05"
+      },
+      {
+         "id":4,
+         "title":"They Died with Their Boots On",
+         "description":"Insert Mult Array Stim Gen in Chest Subcu/Fascia, Perc",
+         "image":"https://raw.githubusercontent.com/mdn/learning-area/master/html/multimedia-and-embedding/images-in-html/dinosaur_small.jpg",
+         "activePDF":true,
+         "pdf":"https://core.ac.uk/download/pdf/326424171.pdf",
+         "id_statu":"27",
+         "statu":"Pendiente",
+         "date":""
+      },
+      {
+         "id":5,
+         "title":"Hot to Trot",
+         "description":"Fusion of Right Elbow Joint with Ext Fix, Perc Approach",
+         "image":"PedeMorbiPorttitor.avi",
+         "activePDF":false,
+         "pdf":"",
+         "id_statu":"28",
+         "statu":"Publicado",
+         "date":"2022-12-20"
+      },
+      {
+         "id":6,
+         "title":"Pay or Die",
+         "description":"Bypass Bi Ureter to L Ureter with Nonaut Sub, Open Approach",
+         "image":"Enim.mp3",
+         "activePDF":true,
+         "pdf":"https://libros.metabiblioteca.org/bitstreams/a37985ce-f55b-49a6-9ac4-bff7d082cdbf/download",
+         "id_statu":"28",
+         "statu":"Publicado",
+         "date":"2023-02-20"
+      },
+      {
+         "id":7,
+         "title":"Frozen Assets",
+         "description":"Magnetic Resonance Imaging (MRI) of Left Elbow",
+         "image":"ViverraEget.xls",
+         "activePDF":true,
+         "pdf":"https://openaccess.uoc.edu/bitstream/10609/139646/6/Seguridad%20informatica.pdf",
+         "id_statu":"27",
+         "statu":"Pendiente",
+         "date":""
+      },
+      {
+         "id":8,
+         "title":"Amnèsia",
+         "description":"Reposition Left Temporomandibular Joint, Open Approach",
+         "image":"https://media.gcflearnfree.org/global/coding/html-basico/resources/img/perro-basquetbolista.png",
+         "activePDF":false,
+         "pdf":"",
+         "id_statu":"28",
+         "statu":"Publicado",
+         "date":"2023-03-17"
+      },
+      {
+         "id":9,
+         "title":"Short Time",
+         "description":"Drain of R Foot Subcu/Fascia with Drain Dev, Perc Approach",
+         "image":"Venenatis.mpeg",
+         "activePDF":false,
+         "pdf":"",
+         "id_statu":"28",
+         "statu":"Publicado",
+         "date":"2022-10-27"
+      },
+      {
+         "id":10,
+         "title":"Escape from L.A.",
+         "description":"Change Other Device in Left Lung, External Approach",
+         "image":"https://media.gcflearnfree.org/global/coding/html-basico/resources/img/perro-basquetbolista.png",
+         "activePDF":false,
+         "pdf":"",
+         "id_statu":"27",
+         "statu":"Pendiente",
+         "date":""
+      }
+   ],
+   "listStatu":[
+      {
+         "id":27,
+         "statu":"Pendiente"
+      },
+      {
+         "id":28,
+         "statu":"Publico"
+      }
+   ]
 }
