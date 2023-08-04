@@ -1,5 +1,5 @@
 {
-   "listaNotification":[
+   "listNotification":[
       {
          "id":1,
          "title":"Cruel Romance, A (Zhestokij Romans)",
@@ -7,8 +7,8 @@
          "image":"https://media.gcflearnfree.org/global/coding/html-basico/resources/img/perro-basquetbolista.png",
          "activePDF":false,
          "pdf":"",
-         "id_statu":"27",
-         "statu":"Pendiente",
+         "id_status":"27",
+         "status":"Pendiente",
          "date":""
       },
       {
@@ -18,8 +18,8 @@
          "image":"https://media.gcflearnfree.org/global/coding/html-basico/resources/img/perro-basquetbolista.png",
          "activePDF":true,
          "pdf":"https://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf",
-         "id_statu":"27",
-         "statu":"Pendiente",
+         "id_status":"27",
+         "status":"Pendiente",
          "date":""
       },
       {
@@ -29,8 +29,8 @@
          "image":"Felis.jpeg",
          "activePDF":true,
          "pdf":"https://bdigital.uvhm.edu.mx/wp-content/uploads/2020/05/Bases-de-Datos.pdf",
-         "id_statu":"28",
-         "statu":"Publicado",
+         "id_status":"28",
+         "status":"Publicado",
          "date":"2023-05-05"
       },
       {
@@ -40,8 +40,8 @@
          "image":"https://raw.githubusercontent.com/mdn/learning-area/master/html/multimedia-and-embedding/images-in-html/dinosaur_small.jpg",
          "activePDF":true,
          "pdf":"https://core.ac.uk/download/pdf/326424171.pdf",
-         "id_statu":"27",
-         "statu":"Pendiente",
+         "id_status":"27",
+         "status":"Pendiente",
          "date":""
       },
       {
@@ -51,8 +51,8 @@
          "image":"PedeMorbiPorttitor.avi",
          "activePDF":false,
          "pdf":"",
-         "id_statu":"28",
-         "statu":"Publicado",
+         "id_status":"28",
+         "status":"Publicado",
          "date":"2022-12-20"
       },
       {
@@ -62,8 +62,8 @@
          "image":"Enim.mp3",
          "activePDF":true,
          "pdf":"https://libros.metabiblioteca.org/bitstreams/a37985ce-f55b-49a6-9ac4-bff7d082cdbf/download",
-         "id_statu":"28",
-         "statu":"Publicado",
+         "id_status":"28",
+         "status":"Publicado",
          "date":"2023-02-20"
       },
       {
@@ -73,8 +73,8 @@
          "image":"ViverraEget.xls",
          "activePDF":true,
          "pdf":"https://openaccess.uoc.edu/bitstream/10609/139646/6/Seguridad%20informatica.pdf",
-         "id_statu":"27",
-         "statu":"Pendiente",
+         "id_status":"27",
+         "status":"Pendiente",
          "date":""
       },
       {
@@ -84,8 +84,8 @@
          "image":"https://media.gcflearnfree.org/global/coding/html-basico/resources/img/perro-basquetbolista.png",
          "activePDF":false,
          "pdf":"",
-         "id_statu":"28",
-         "statu":"Publicado",
+         "id_status":"28",
+         "status":"Publicado",
          "date":"2023-03-17"
       },
       {
@@ -95,8 +95,8 @@
          "image":"Venenatis.mpeg",
          "activePDF":false,
          "pdf":"",
-         "id_statu":"28",
-         "statu":"Publicado",
+         "id_status":"28",
+         "status":"Publicado",
          "date":"2022-10-27"
       },
       {
@@ -106,19 +106,19 @@
          "image":"https://media.gcflearnfree.org/global/coding/html-basico/resources/img/perro-basquetbolista.png",
          "activePDF":false,
          "pdf":"",
-         "id_statu":"27",
-         "statu":"Pendiente",
+         "id_status":"27",
+         "status":"Pendiente",
          "date":""
       }
    ],
-   "listStatu":[
+   "listStatus":[
       {
          "id":27,
-         "statu":"Pendiente"
+         "status":"Pendiente"
       },
       {
          "id":28,
-         "statu":"Publico"
+         "status":"Publico"
       }
    ]
 }
