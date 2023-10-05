@@ -1,4 +1,5 @@
-[
+{
+   "listaUser":[
    {
       "id":1,
       "usuario":"awhicher",
@@ -95,3 +96,4 @@
       "contrasenia":"Jr5GBmBqpKT4"
    }
 ]
+}
